@@ -5,5 +5,5 @@
 
 분류 | 문제
 --- | ---
-[해시]() | 0/4
-[스택/큐]() | 0/6
+[해시](https://github.com/algorithm-ehwa/algorithm-jian/tree/master/hash) | 0/4
+[스택/큐](https://github.com/algorithm-ehwa/algorithm-jian/tree/master/stack_queue) | 0/6
